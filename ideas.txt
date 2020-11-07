@@ -30,6 +30,10 @@ invest in current or later self
 - more developed mindset
 ** **
 
+SCOPE IDEAS:
+one word answers / actions?
+level -> NPC -> level w/ effects
+
 ** get points for helping teammate **
 results/performance is opponent's score
 - two difference scores -- must maximise your own to win but forces other person's score
