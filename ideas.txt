@@ -1,0 +1,41 @@
+challenging coop puzzle game
+mechanics that limit progress until other completes it
+- both must progress at same time
+- timed/performance of own side
+- performance boosts
+- competition but power ups that give unique advantages
+
+** competition against self/others (beat ghosts?) **
+- platformer (get to other side) that is timed
+- battleblock theater? ability to throw other player across gap
+- time is rewarded as money for upgrades
+- must play through level together
+- competition but power ups that give unique advantages
+** **
+
+the other person does what you do
+both people control a doll at the same time
+- super meat boy but controlled by two
+- surgeon simulator with two person hands
+
+** something that helps you now vs later **
+rogue legacy but choose between current generation and lineage
+invest in current or later self
+- complete levels that require irreversible actions that will affect you later
+- talk to npcs --> that interaction affects future interactions
+- interactions/effects are seen by yourself (as a new traveller passing through)
+- talk to NPC, later become that NPC and witness that reaction (somehow encourage player to say what the NPC said the first time)
+- if you choose something different from what the NPC said the first time, your player changes in a new way
+- multiple different accounts of the same thing, ending in a changed player
+- more developed mindset
+** **
+
+** get points for helping teammate **
+results/performance is opponent's score
+- two difference scores -- must maximise your own to win but forces other person's score
+** **
+
+each person has same tasks but also separate secret tasks that could be sabotaged
+- both are trying to reach place / get an amount of items
+- but are trying to do own tasks too
+- guess what other person is doing
